@@ -1,5 +1,4 @@
 name: GIPHY Generator
-
 on:
   issues:
     types: [opened, edited]
